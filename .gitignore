@@ -1,0 +1,8 @@
+.venv/
+.env
+aha_auth.json
+google_sheet_api_key.json
+__pycache__/
+*.pyc
+.vscode/
+shots/
